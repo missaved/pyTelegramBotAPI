@@ -2,7 +2,7 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "<your_token>"
+TOKEN = '5219990394:AAGJRCUNmzZvoIxuX0nNyN1DVN-sbfY5FGM'
 bot = telebot.TeleBot(TOKEN)
 
 keys = ["1","2","3","4","5","6","7","8","9","0","q","w","e","r","t","y","u","i","o","p","a","s","d","f","g","h","j","k","l","z","x","c","v","b","n","m"]

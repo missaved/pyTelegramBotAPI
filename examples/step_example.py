@@ -5,8 +5,8 @@ This Example will show you how to use register_next_step handler.
 
 import telebot
 from telebot import types
-
-API_TOKEN = '<api_token>'
+token = '5219990394:AAGJRCUNmzZvoIxuX0nNyN1DVN-sbfY5FGM'
+API_TOKEN = token
 
 bot = telebot.TeleBot(API_TOKEN)
 
